@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.estrutura-texto{
+
+align-items: center;
+font-size: larger;
+width: 2000px;
+height: 100px ;
+justify-items: center;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+border-radius: 2px;
+}
+.estrutura-banner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 1,800px;
+   
+
+}
+.estrutura-leyout{
+    width: 564.12px;
+    height: 84px;
+    
+}
